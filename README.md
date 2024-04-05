@@ -1,5 +1,7 @@
-This app is generated in V16 of angular and fabric.js library
-Commands:
+This app is generated in V16 of angular and fabric.js library.
+
+
+Commands for run the app::
 
 npm update 
 
