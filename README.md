@@ -1,3 +1,14 @@
+This app is generated in V16 of angular and fabric.js library
+Commands:
+
+npm update 
+
+npm i fabric
+
+
+
+
+
 # RoutingApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
